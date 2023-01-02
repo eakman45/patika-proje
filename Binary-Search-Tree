@@ -21,3 +21,12 @@
 9)7>2, 5>2 ve 3>2 olduğu için 2 rakamı 3'ün sol kısmına eklenir.
 
                           
+                7
+               / \
+              5    8
+             / \    \
+            1   6    9
+           / \
+          0   3   
+            / \
+           2   4
